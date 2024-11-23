@@ -1,0 +1,38 @@
+﻿@model IEnumerable<WebApplication2.Models.order>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1> All Orders</h1>
+
+<p>
+    <a asp-action="create" class="btn btn-danger">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th> OrderId </th>
+            <th> Product Name </th>
+            <th> Quantity </th>
+            <th> Total Price </th>
+            <th> Order Date </th>
+            <th>Action </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td> @item.Id </td>
+            <td> @item.product.name </td>
+            <td> @item.qantity</td>
+            <td> @item.Price</td>
+            <td> @item.orderdate</td>
+            <td>
+                    <a class="btn btn-success" asp-controller="order" asp-action="edite" asp-route-id="@item.Id">EDITE</a>
+                    <a class="btn btn-dark" asp-controller="order" asp-action="delete" asp-route-id="@item.Id">Cancel</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

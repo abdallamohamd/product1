@@ -1,0 +1,67 @@
+﻿@model WebApplication2.Models.product
+
+@{
+    ViewData["Title"] = "edite";
+    SelectList clist = new SelectList(ViewBag.clist, "id", "name");
+    SelectList slist = new SelectList(ViewBag.slist, "id", "name");
+}
+
+<h1>edite</h1>
+
+<h4>product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="sedite" asp-route-id="@Model.id" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="name" class="control-label"></label>
+                <input asp-for="name" class="form-control" />
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="unitprice" class="control-label"></label>
+                <input asp-for="unitprice" class="form-control" />
+                <span asp-validation-for="unitprice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="unitinstock" class="control-label"></label>
+                <input asp-for="unitinstock" class="form-control" />
+                <span asp-validation-for="unitinstock" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="categoryid" class="control-label"></label>
+                <select asp-for="categoryid" class="form-control" asp-items="clist">
+                    <option>--select category--</option>
+                </select>
+                <span asp-validation-for="categoryid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="supplierid" class="control-label"></label>
+                <select asp-for="supplierid" class="form-control" asp-items="slist">
+                    <option>--select supplier--</option>
+                </select>
+                <span asp-validation-for="supplierid" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label class="control-label"> picture</label>
+                <br />
+                <input type="file" name="imageFile" class="form-control" />
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

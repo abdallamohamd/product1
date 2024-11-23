@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mohamed mahdy\\c#\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|e:\\mohamed mahdy\\c#\\webapplication2\\webapplication2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|e:\\mohamed mahdy\\c#\\webapplication2\\webapplication2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|e:\\mohamed mahdy\\c#\\webapplication2\\webapplication2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|e:\\mohamed mahdy\\c#\\webapplication2\\webapplication2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|e:\\mohamed mahdy\\c#\\webapplication2\\webapplication2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|e:\\mohamed mahdy\\c#\\webapplication2\\webapplication2\\views\\account\\log.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\account\\log.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|e:\\mohamed mahdy\\c#\\webapplication2\\webapplication2\\views\\account\\regester.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\account\\regester.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|e:\\mohamed mahdy\\c#\\webapplication2\\webapplication2\\view_model\\logvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\view_model\\logvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|e:\\mohamed mahdy\\c#\\webapplication2\\webapplication2\\view_model\\regestervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\view_model\\regestervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|e:\\mohamed mahdy\\c#\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|e:\\mohamed mahdy\\c#\\webapplication2\\webapplication2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|e:\\mohamed mahdy\\c#\\webapplication2\\webapplication2\\models\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|e:\\mohamed mahdy\\c#\\webapplication2\\webapplication2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EBEC7B-0A01-4641-BAB7-6459F83341E0}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Views\\product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\product\\Index.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Views\\product\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T11:02:42.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "orderController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Controllers\\orderController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\orderController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Controllers\\orderController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\orderController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:08:28.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "productController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Controllers\\productController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\productController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Controllers\\productController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\productController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:32:13.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "product.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Models\\product.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\product.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Models\\product.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:26:42.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "log.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Views\\account\\log.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\account\\log.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Views\\account\\log.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\account\\log.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T10:04:44.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "logvm.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\view_model\\logvm.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\view_model\\logvm.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\view_model\\logvm.cs",
+              "RelativeToolTip": "WebApplication2\\view_model\\logvm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:54:15.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "regester.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Views\\account\\regester.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\account\\regester.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Views\\account\\regester.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\account\\regester.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:28:53.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "regestervm.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\view_model\\regestervm.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\view_model\\regestervm.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\view_model\\regestervm.cs",
+              "RelativeToolTip": "WebApplication2\\view_model\\regestervm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:18:43.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "accountController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Controllers\\accountController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\accountController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Controllers\\accountController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\accountController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:16:29.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:05:09.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appcontext.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Models\\appcontext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\appcontext.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Models\\appcontext.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\appcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:04:22.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "applicationuser.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Models\\applicationuser.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\applicationuser.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Models\\applicationuser.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\applicationuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:03:24.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "order.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Models\\order.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\order.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\WebApplication2\\WebApplication2\\Models\\order.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:14:39.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+﻿@model IEnumerable<WebApplication2.Models.product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="p-2"> All products</h1>
+
+<p>
+    <a asp-action="create" class="btn btn-danger">Create New</a>
+</p>
+<form  asp-controller="product" asp-action="Index">
+    <input type="search"  name="cate" placeholder="inter name" />
+    <input type="submit" value="search" class="btn btn-dark" />
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>  Name  </th>
+            <th> UnitePrice </th>
+            <th> UniteInstock </th>
+            <th> Picture</th>
+            <th> Category </th>
+            <th> Supplier </th>
+            <th> Action  </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>@item.name </td>
+            <td>@item.unitprice </td>
+            <td>@item.unitinstock  </td>
+            <td><img src="/imge/@item.pic" width="100"/> </td>
+            <td>@item.category.name  </td>
+            <td>@item.supplier.name </td>
+            <td>
+            <a class="btn btn-success" asp-controller="product" asp-action="edite" asp-route-id="@item.id">EDITE</a>
+            <a class="btn btn-dark" asp-controller="product" asp-action="delete" asp-route-id="@item.id" >DELETE</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

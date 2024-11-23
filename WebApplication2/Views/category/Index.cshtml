@@ -1,0 +1,34 @@
+﻿@model IEnumerable<WebApplication2.Models.category>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>All Categories</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-danger" >Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th> Id </th>
+            <th> Name </th>
+            <th> Description </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td> @item.id</td>
+            <td> @item.name</td>
+            <td> @item.description</td>
+            <td>
+                    <a class="btn btn-success" asp-controller="category" asp-action="edite" asp-route-id="@item.id">EDITE</a>
+                    <a class="btn btn-dark" asp-controller="category" asp-action="delete" asp-route-id="@item.id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
